@@ -1,4 +1,4 @@
-# Universidad de La Salle --- Taller de Reproducibilidad  
+# Taller de Reproducibilidad  
 [Fernando Hoces de la Guardia](http://fhoces.github.io)
 
 UC Berkeley ([Berkeley Initative for Transparency in the Social Sciences](http://www.bitss.org))
@@ -6,7 +6,7 @@ UC Berkeley ([Berkeley Initative for Transparency in the Social Sciences](http:/
 Gracias a [Garret Christensen](http://www.ocf.berkeley.edu/~garret) por proveer el material original para este entrenamiento.
 
 ### Materiales para el taller de reproducibilidad en ULS-Bolivia
-Las instrucciones requeridas para instalar el software necesario para el taller se encuentran [aquí](https://github.com/fhoces/BITSS_ULS_BOLIVIA_2017/tree/master/2-Registros#instalación-de-software).
+Las instrucciones requeridas para instalar el software necesario para el taller se encuentran [aquí](https://github.com/fhoces/BITSS_SPANISH/tree/master/2-Registros#instalación-de-software).
 
 Los materiales del seminario y el taller se encuentran en este repositorio. El repositorio contiene carpetas con la siguiente información:
 
@@ -14,9 +14,9 @@ Los materiales del seminario y el taller se encuentran en este repositorio. El r
 
 2-Registros contiene las instrucciones para el primer modulo del taller de hoy.
 
-3-RMarkdown contiene las instrucciones para el segundo modulo sobre Documentos Dinamicos.
+3-RMarkdown contiene las instrucciones para el segundo modulo sobre Documentos Dinámicos.
 
-4-VersionControl contiene la informacion para el tercer y ultimo modulo sobre Git/Github.
+4-VersionControl contiene la información para el tercer y ultimo modulo sobre Git/Github.
 
 Material adicional se puede encontrar en las carpetas-x.
 

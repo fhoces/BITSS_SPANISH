@@ -10,7 +10,7 @@ affiliation: UC Berkeley
 
 Taller de Git & GitHub Desktop
 ==============================
-BITSS ULS-Bolivia 2017
+BITSS 2017
 ------------------------------
 Fernando Hoces de la Guardia
 
@@ -35,7 +35,7 @@ Una forma relativamente común de definir tu flujo de trabajo se puede encontrar
 La meta aspiracional es que yo debería ser capaz de entrar en tu laboratorio en la noche, borrar todos tus archivos excepto tu código y datos originales, y tu deberías ser capaz de ejecutar un solo comando para regenerar TODO, incluyendo todos los resultados, tablas y figuras en su forma final. Esto es lo que se entiende por 'flujo de trabajo de un-click'.
 
 
-En el otro extremo, cuando no puedes encontrar la versión correcta de tu procesacimento o análisis de datos, pierdes la habilidad de recrear cualquier resultado que fue generado en el pasado. Si tus resultados no son reproducibles, también adolecen de los siguientes problemas:
+En el otro extremo, cuando no puedes encontrar la versión correcta de tu procesamiento o análisis de datos, pierdes la habilidad de recrear cualquier resultado que fue generado en el pasado. Si tus resultados no son reproducibles, también adolecen de los siguientes problemas:
 
 1. No son verificables
 2. Son mas difíciles de explicar
@@ -120,7 +120,7 @@ Github Desktop automáticamente añade los archivos al área de posicionamiento.
 
 * Quiten y vuelvan a añadir el check al archivo `README.md`.
 
-* Hagan commit, o archiven de manera permante, el archivo `README.md` añadiendo un preve descripción como `README creado`. Luego hagan click in `Commit to master`.
+* Hagan commit, o archiven de manera permanente, el archivo `README.md` añadiendo un preve descripción como `README creado`. Luego hagan click in `Commit to master`.
 
 * Creen un segundo archivo ocupando el editor de do-files de Stata y llamenlo `regressions.do`. Escriban estas lineas:
 
@@ -147,7 +147,7 @@ Github Desktop automáticamente añade los archivos al área de posicionamiento.
 
 * Hagan commit.
 
-* Agregen otra linea al archivo `README.md`:
+* Agreguen otra linea al archivo `README.md`:
 > La sexta! linea de este creativo programa
 
 * Hagan commit de este cambio.
@@ -164,7 +164,7 @@ Hay varias formas de deshacer en git, no todas de ellas son posibles en Github D
 
 * Reviertan el commit que agregó la quinta linea en `README.md`.
 
-* Reviertan la reversion de forma tal que vuevan a tener las 6 lineas completas en `README.md`.
+* Reviertan la reversión de forma tal que vuelvan a tener las 6 lineas completas en `README.md`.
 
 <!--
 We'll try one quick command in the command line. (See the SWC lesson [here](https://swcarpentry.github.io/git-novice/05-history/).)
@@ -180,7 +180,7 @@ Atlassian has a great [explanation](https://www.atlassian.com/git/tutorials/rese
 -->
 
 ### Branching:
-Git utiliza ramas (branches) para que puedas experimentar con ideas nuevas o corregir errores de codigo.
+Git utiliza ramas (branches) para que puedas experimentar con ideas nuevas o corregir errores de código.
 
 * Crea, nombra y sincroniza una nueva rama de nombre `experimental` haciendo click en 'create new branch'.
 

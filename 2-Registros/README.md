@@ -8,7 +8,7 @@ Berkeley Initiative for Transparency in the Social Sciences
 
 Los objetivos de este modulo son:  
  1. Introducir la pagina de registros de [AEA](https://www.socialscienceregistry.org).   
- 2. Introducir el [Open Science Framework](osf.io)
+ 2. Introducir el [Open Science Framework](https://osf.io)
  3. Asegurarnos de que tengan instalado el software para las sesiones siguientes.
 
 ## AEA Registry
@@ -21,7 +21,7 @@ Los objetivos de este modulo son:
 
 **Objetivo**: un lugar para organizar toda tu investigación. Esta diseñado para que puedas compartir, y recibas credito, todos los componentes que desees de tu trabajo.  
 
-Esta seccion se basa principlamente en el turorial que  [Kaitlyn Werner](https://osf.io/ftk25/) presentó en RT2 London. Link [aquí a su presentación](https://osf.io/qpgrn/).
+Esta sección se basa principalmente en el tutorial que  [Kaitlyn Werner](https://osf.io/ftk25/) presentó en RT2 London. Link [aquí a su presentación](https://osf.io/qpgrn/).
 
 
 ### Navegación del OSF  
