@@ -5,7 +5,7 @@ UC Berkeley ([Berkeley Initative for Transparency in the Social Sciences](http:/
 
 Gracias a [Garret Christensen](http://www.ocf.berkeley.edu/~garret) por proveer el material original para este entrenamiento.
 
-### Materiales para el taller de reproducibilidad en ULS-Bolivia
+### Materiales para el taller de reproducibilidad
 Las instrucciones requeridas para instalar el software necesario para el taller se encuentran [aquí](https://github.com/fhoces/BITSS_SPANISH/tree/master/2-Registros#instalación-de-software).
 
 Los materiales del seminario y el taller se encuentran en este repositorio. El repositorio contiene carpetas con la siguiente información:
