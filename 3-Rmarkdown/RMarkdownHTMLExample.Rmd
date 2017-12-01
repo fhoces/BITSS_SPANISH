@@ -14,7 +14,7 @@ ONE CLICK! Knit HTML and you're done.
 
 2. Install/Load packages. You only have to install a package once, but you have to load the library every time you want to use it. You'll see that a bunch of ugly commands and output gets displayed. You probably wouldn't really want that in your actual paper.
 
-```{r, echo=TRUE, message=FALSE}
+```{r, echo=TRUE, message=FALSE, results='hide'}
 # Loading required libraries
 list.of.packages <- c("foreign", "stargazer", "sandwich", "haven")
 
